@@ -1,15 +1,14 @@
-const accountId = 12345
-let accountEmail ="uday.learn247@gmail.com"
-var accountPassword = "70308"
-accountCity = "Faridabad"
+const accounrId = 12344
+let   accountEmail = "uday.learn247@gmail.com"
+var   accountPassword = "70308"  // var ko hum isliye use nahi kerte kyuki use se block issue or {  } {  } functional issue aat ahai //
+      accountCity = "Faridabad"   // variables ko bina declare kare hum memory mai save ker sakte hai per ker nahi //
 
-//  accountId = 70308
 
-accountEmail = "uday70308@gmail.com"
-accountPassword = "965087"
-accountCity = "Jaipur"
+// accountId = 789456
 
-// we can change let and var but we can't change the value of const
-// highly recommended to only use const and let.
+// 
 
-console.table({accountId, accountEmail, accountPassword, accountCity})
+console.table([accounrId, accountEmail, accountPassword, accountCity]);
+
+
+

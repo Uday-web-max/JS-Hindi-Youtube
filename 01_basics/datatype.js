@@ -1,10 +1,7 @@
+let age = 23
+let name = "uday kumar"
+let isloggedin = true
+let car = undefined
+let bike = null
 
-let accountId = 8726289
-let accountEmail = "uday.learn247@gmail.com"
-let accountPassword = "70308"
-    accountCity = "Faridabad"
-
-    console.log(accountId);
-    
-   
-    
+console.log(typeof isloggedin);

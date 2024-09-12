@@ -26,4 +26,4 @@ let valueInNumber = Number(score)
         console.log(stringNumber);
         console.log(typeof stringNumber);
         
-    
+    // *********************************   OPERATION   ****************************************
